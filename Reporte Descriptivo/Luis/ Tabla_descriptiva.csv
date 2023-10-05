@@ -1,0 +1,25 @@
+"Columna","Descripcion","Normalidad"
+"mpg","   vars  n  mean   sd median trimmed  mad  min  max range skew kurtosis   se",NA
+"mpg","X1    1 32 20.09 6.03   19.2    19.7 5.41 10.4 33.9  23.5 0.61    -0.37 1.07",NA
+"cyl","   vars  n mean   sd median trimmed  mad min max range  skew kurtosis   se",NA
+"cyl","X1    1 32 6.19 1.79      6    6.23 2.97   4   8     4 -0.17    -1.76 0.32",NA
+"disp","   vars  n   mean     sd median trimmed    mad  min max range skew kurtosis",NA
+"disp","X1    1 32 230.72 123.94  196.3  222.52 140.48 71.1 472 400.9 0.38    -1.21",NA
+"disp","      se",NA
+"disp","X1 21.91",NA
+"hp","   vars  n   mean    sd median trimmed  mad min max range skew kurtosis    se",NA
+"hp","X1    1 32 146.69 68.56    123  141.19 77.1  52 335   283 0.73    -0.14 12.12",NA
+"drat","   vars  n mean   sd median trimmed mad  min  max range skew kurtosis   se",NA
+"drat","X1    1 32  3.6 0.53    3.7    3.58 0.7 2.76 4.93  2.17 0.27    -0.71 0.09",NA
+"wt","   vars  n mean   sd median trimmed  mad  min  max range skew kurtosis   se",NA
+"wt","X1    1 32 3.22 0.98   3.33    3.15 0.77 1.51 5.42  3.91 0.42    -0.02 0.17",NA
+"qsec","   vars  n  mean   sd median trimmed  mad  min  max range skew kurtosis   se",NA
+"qsec","X1    1 32 17.85 1.79  17.71   17.83 1.42 14.5 22.9   8.4 0.37     0.34 0.32",NA
+"vs","   vars  n mean  sd median trimmed mad min max range skew kurtosis   se",NA
+"vs","X1    1 32 0.44 0.5      0    0.42   0   0   1     1 0.24       -2 0.09",NA
+"am","   vars  n mean  sd median trimmed mad min max range skew kurtosis   se",NA
+"am","X1    1 32 0.41 0.5      0    0.38   0   0   1     1 0.36    -1.92 0.09",NA
+"gear","   vars  n mean   sd median trimmed  mad min max range skew kurtosis   se",NA
+"gear","X1    1 32 3.69 0.74      4    3.62 1.48   3   5     2 0.53    -1.07 0.13",NA
+"carb","   vars  n mean   sd median trimmed  mad min max range skew kurtosis   se",NA
+"carb","X1    1 32 2.81 1.62      2    2.65 1.48   1   8     7 1.05     1.26 0.29",NA
